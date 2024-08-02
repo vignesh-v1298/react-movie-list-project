@@ -18,16 +18,31 @@ The API used for the displaying of movies is OMDB API which has free version
 
 # Main Page
 
-![image](https://github.com/user-attachments/assets/33106c4d-d4b8-4202-9040-d1508728e73a)
+![image](https://github.com/user-attachments/assets/1737a09d-75fa-4ee4-8231-9b2cfc9bbc57)
+
 
 # List of Movies fetched from API 
 
-![image](https://github.com/user-attachments/assets/6c7fc162-3533-4064-8a95-19ed65f4d1c2)
+![image](https://github.com/user-attachments/assets/54dc407a-a232-4e6e-b6a6-c14b052b2b63)
+
 
 # Movie Details 
 
-![image](https://github.com/user-attachments/assets/77158132-c535-406b-bd51-4e0dff23d2d7)
+![image](https://github.com/user-attachments/assets/90813a3e-3484-4f02-8d08-092a464c9846)
+
 
 # Movies with their Favourite list and the Watch list and the avreage calculated based upon the movies list 
 
-![image](https://github.com/user-attachments/assets/0676b2fc-5c77-4e44-bf06-f614c89d846c)
+![image](https://github.com/user-attachments/assets/e1298fb2-ecb7-4024-9d9e-89e08b64a97f)
+
+# Once After adding to the watch list 
+
+![image](https://github.com/user-attachments/assets/16335fa2-ecb0-46b0-9376-c2b8e8587cf5)
+
+#Once After Adding to favourite List 
+
+![image](https://github.com/user-attachments/assets/d50be4f2-4bea-43b2-838c-f3829050735a)
+
+
+
+
