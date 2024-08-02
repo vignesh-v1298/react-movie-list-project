@@ -295,7 +295,7 @@ function MovieSummary({
       async function getMovieSummary() {
         setSloading(true);
         const response = await fetch(
-          `http://www.omdbapi.com/?apikey=${apikey}&i=${selectedID}&t=${selectedMovieTitle}`
+          `http://www.omdbapi.com/?apikey=${apiKey}&i=${selectedID}&t=${selectedMovieTitle}`
         );
         const data = await response.json();
         setSmovie(data);
