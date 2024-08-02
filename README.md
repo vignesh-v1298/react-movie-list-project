@@ -3,7 +3,7 @@
 The Movie list module displays the movies that is fetched from API and displays the movies details.
 Once a ueser selects a movie on searching he can add it to the watch list or to the favourite list 
 
-As this is a beginner level project not used folder structure moving further will be converting this project into an application and will be updating the changes made on the weekly basis.
+As this is a beginner level project with Static page not used folder structure moving further will be converting this project into an application and will be updating the changes made on the weekly basis.
 
 Started this project has i am leraning react taught of implementing through live examples and projects so that it could help me in better understanding and become a good react developer 
 
